@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USERNAME": "user-prod",
+    "DB_PASSWORD": "HnhwPg0LoyIufdrK",
+    "DB_NAME": "bhouse-prod",
+    "DB_API_KEY": "AIzaSyB9mao2Bt18q-WsZk9QV2WdyaudF3O9S5A",
+    "JWT_KEY": "super_secret_dont_share"
+  }
+}
